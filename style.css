@@ -28,7 +28,7 @@
 .active {
 	color: #19dafa !important; /*Overstyrer annen farge*/
 }
-.signup-btn{
+.signin-btn{
 	top: 3em;
 	right: 4.5em;
 	position: absolute;
@@ -41,7 +41,7 @@
 	background-origin: border-box;
 	background-clip: content-box,border-box;
 }
-.signup-btn span {
+.signin-btn span {
 	display: block;
 	border-radius: 40%;
 	padding: 0.4em 1.1em;
@@ -117,11 +117,6 @@ small {
 	letter-spacing: 3px;
 }
 
-
-
-
-
-
-
-
-
+a {
+	text-decoration: none;
+}
